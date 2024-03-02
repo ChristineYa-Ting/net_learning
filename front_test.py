@@ -9,10 +9,3 @@ import pandas as pd
 df = pd.read_csv('Excel Data/adult.csv', header = 0)
 
 df
-
-
-# In[ ]:
-
-
-
-
