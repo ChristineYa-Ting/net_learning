@@ -1,11 +1,11 @@
 ## 網路輔助學習系統研究 ##
 
-## 製作者:張雅婷 ##
+**製作者:張雅婷**
 
 
 **✌️ChatGPT API Pratice**
 ------------------------------
-Reference : [Test02.py](url)
+Reference : [Test02.py](https://github.com/ChristineYa-Ting/net_learning/blob/main/Test02.py)
 Background :
 <details>
 <summary>
