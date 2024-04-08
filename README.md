@@ -15,7 +15,7 @@
 
 **🛒Hubspot Model Pratice**
 ------------------------------
-🔗Reference : [0401_Practice.py]()
+🔗Reference : [0401_Practice.py](https://github.com/ChristineYa-Ting/net_learning/blob/main/0401_Practice.py)
 <details>
 <summary> Background </summary>
 接續上篇的練習，增加 Hubspot 的文件重點摘要、問答的功能
