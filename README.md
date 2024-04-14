@@ -11,7 +11,7 @@
 👉可用於教學中，讓學生們課程後獲得逐字稿，回顧自己不清楚的課程細節(較建議使用於語言相關課程)
 
 <details> 
-  <summary>輸出結果</summary>
+  <summary> 輸出結果 </summary>
   
   ![Picture](https://github.com/ChristineYa-Ting/net_learning/blob/main/Result_Picture/0318_Result.png)
   
@@ -26,7 +26,7 @@
 接續上篇的練習，增加 Hubspot 的文件重點摘要、問答的功能
 
 <details> 
-  <summary>輸出結果</summary>
+  <summary> 輸出結果 </summary>
   
   ![Picture](https://github.com/ChristineYa-Ting/net_learning/blob/main/Result_Picture/0401_Result.png)
   
@@ -41,7 +41,7 @@
 使用 RAG 打造針對整篇逐字稿的問答模型
 
 <details> 
-  <summary>輸出結果</summary>
+  <summary> 輸出結果 </summary>
   
   ![Picture](https://github.com/ChristineYa-Ting/net_learning/blob/main/Result_Picture/0415_Result.png)
   
