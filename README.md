@@ -12,8 +12,8 @@
 
 <details> 
   <summary>輸出結果</summary>
-  <picture>
   
+  ![Picture](https://github.com/ChristineYa-Ting/net_learning/blob/main/Result_Picture/0318_Result.png)
   
 </details>
 
