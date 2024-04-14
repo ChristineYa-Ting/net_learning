@@ -18,11 +18,20 @@
 </details>
 
 
+
 **🛒 Hubspot Model Pratice**
 ------------------------------
 🔗Reference : [0401_Practice.py](https://github.com/ChristineYa-Ting/net_learning/blob/main/0401_Practice.py)
 
 接續上篇的練習，增加 Hubspot 的文件重點摘要、問答的功能
+
+<details> 
+  <summary>輸出結果</summary>
+  
+  ![Picture](https://github.com/ChristineYa-Ting/net_learning/blob/main/Result_Picture/0401_Result.png)
+  
+</details>
+
 
 
 **💫 RAG (OpenAI) Pratice**
@@ -30,3 +39,10 @@
 🔗Reference : [0415_Practice.py](https://github.com/ChristineYa-Ting/net_learning/blob/main/0415_Practice.py)
 
 使用 RAG 打造針對整篇逐字稿的問答模型
+
+<details> 
+  <summary>輸出結果</summary>
+  
+  ![Picture](https://github.com/ChristineYa-Ting/net_learning/blob/main/Result_Picture/0415_Result.png)
+  
+</details>
