@@ -12,6 +12,8 @@
 
 <details> 
   <summary>輸出結果</summary>
+  <picture>
+  
   
 </details>
 
