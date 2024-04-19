@@ -5,7 +5,7 @@
 
 **🔖 ChatGPT API Pratice**
 ------------------------------
-🔗Reference : [0318_Practice.py](https://github.com/ChristineYa-Ting/net_learning/blob/main/0318_Practice.py)
+🔗Code: [0318_Practice.py](https://github.com/ChristineYa-Ting/net_learning/blob/main/0318_Practice.py)
 
 👉可用於職場中，開會時，藉由錄音音檔獲得整場會議逐字稿  
 👉可用於教學中，讓學生們課程後獲得逐字稿，回顧自己不清楚的課程細節(較建議使用於語言相關課程)
@@ -21,7 +21,7 @@
 
 **🛒 Hubspot Model Pratice**
 ------------------------------
-🔗Reference : [0401_Practice.py](https://github.com/ChristineYa-Ting/net_learning/blob/main/0401_Practice.py)
+🔗Code : [0401_Practice.py](https://github.com/ChristineYa-Ting/net_learning/blob/main/0401_Practice.py)
 
 接續上篇的練習，增加 Hubspot 的文件重點摘要、問答的功能
 
@@ -36,7 +36,7 @@
 
 **💫 RAG (OpenAI) Pratice**
 ------------------------------
-🔗Reference : [0415_Practice.py](https://github.com/ChristineYa-Ting/net_learning/blob/main/0415_Practice.py)
+🔗Code : [0415_Practice.py](https://github.com/ChristineYa-Ting/net_learning/blob/main/0415_Practice.py)
 
 使用 RAG 打造針對整篇逐字稿的問答模型
 
