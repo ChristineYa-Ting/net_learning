@@ -60,15 +60,28 @@
 🔗Code : [0429_Practice.py](https://github.com/ChristineYa-Ting/net_learning/blob/main/0429_Practice.py)
 
 使用 Google sheet 雲端共編串接至 vscode 進行數位孿生設計
+
 運用情境 :
 1. 模擬建立各個員工當日已有的會議時間 (會顯示於 google sheet 1)
 2. 秘書可填入想要的會議時長、參加人員，系統將提供可預約的會議時間
-3. 輸入選擇的會議時間後，會將其會議時間、人員與會議摘要自動填入到 google sheet 2 
+3. 輸入選擇的會議時間後，會將其會議時間、參與人員自動填入到 google sheet 2 
 
 <details> 
   <summary> Code Result :  </summary>
   
-  ![Picture](https://github.com/ChristineYa-Ting/net_learning/blob/main/Result_Picture/0415_Result.png)
+  ![Picture](https://github.com/ChristineYa-Ting/net_learning/blob/main/Result_Picture/0429_result.png)
   
 </details>
 
+<details> 
+  <summary> Sheet Result :  </summary>
+
+  google sheet 1 :
+  
+  ![Picture](https://github.com/ChristineYa-Ting/net_learning/blob/main/Result_Picture/0429_google%20sheet%201.png)
+
+  google sheet 2 :
+  
+  ![Picture](https://github.com/ChristineYa-Ting/net_learning/blob/main/Result_Picture/0429_google%20sheet%202.png)
+  
+</details>
