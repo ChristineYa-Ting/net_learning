@@ -131,7 +131,6 @@
   <summary> Code Result :  </summary>
   
   ![Picture](https://github.com/ChristineYa-Ting/net_learning/blob/main/Result_Picture/Whole_Integrate_result1.png)
-
   ![Picture](https://github.com/ChristineYa-Ting/net_learning/blob/main/Result_Picture/Whole_Integrate_result2.png)
   
 </details>
