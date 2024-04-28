@@ -140,7 +140,7 @@
 
   #### google sheet 1 : ####
   
- 
+  ![Picture](https://github.com/ChristineYa-Ting/net_learning/blob/main/Result_Picture/whole_integrate_google%20sheet%201.png)
 
   #### google sheet 2 : ####
   
