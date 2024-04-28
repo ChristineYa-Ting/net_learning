@@ -85,3 +85,46 @@
   ![Picture](https://github.com/ChristineYa-Ting/net_learning/blob/main/Result_Picture/0429_google%20sheet%202.png)
   
 </details>
+
+
+
+**🚩🚩 Whole Integrate 01 🚩🚩**
+--------------------------------------------
+🔗Code : [0429_Whole_Integrate.py](https://github.com/ChristineYa-Ting/net_learning/blob/main/0429_Whole_Integrate.py)
+
+將前面所學全部串接一起
+
+流程如下 :
+1. 串接 OpenAI API 金鑰
+   
+   (1). 將會議音訊檔進行每 60 秒分割(避免音檔太大而無法執行)，並將分割檔另存為 seg_i 檔
+
+   (2). 使用 Whisper 模型中的 transcription 函式來轉錄音檔，進行每個分割檔的逐字稿讀取
+
+   (3). 將所有的轉錄之逐字稿合併成一個文檔，並輸出為 merged_text.txt 的文件
+
+2. 串接 HuggingFace Model ， 根據逐字稿(merged_text.txt) 進行摘要
+3. 串接 google sheet API
+
+   (1). 模擬建立各個員工當日已有的會議時間 (會顯示於 google sheet 1)
+
+   (2). 秘書可填入想要的會議時長、參加人員，系統將提供可預約的會議時間
+
+   (3). 輸入選擇的會議時間後，會將其**會議時間、參與人員、會議內容摘要**自動填入到 google sheet 2 
+
+4. 回到 OpenAI RAG LLM 模型
+
+   (1). TextLoader 對象為逐字稿(merged_text.txt)
+
+   (2). 進行文本分割、檢索和生成
+
+   (3). 提供使用者輸入問題，系統會根據逐字稿內容進行回答
+
+5. 回到 google sheet API
+   
+   (1). 讀取 google sheet 3
+
+   (2). 將上述之問題和回答自動匯入至 google sheet 3
+
+
+
