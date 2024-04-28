@@ -88,7 +88,6 @@
 
 
 
-
 **🚩🚩 Whole Integrate 01 🚩🚩**
 --------------------------------------------
 🔗Code : [0429_Whole_Integrate.py](https://github.com/ChristineYa-Ting/net_learning/blob/main/0429_Whole_Integrate.py)
@@ -128,4 +127,28 @@
    (2). 將上述之問題和回答自動匯入至 google sheet 3
 
 
+<details> 
+  <summary> Code Result :  </summary>
+  
+  ![Picture](https://github.com/ChristineYa-Ting/net_learning/blob/main/Result_Picture/Whole_Integrate_result1.png)
 
+  ![Picture](https://github.com/ChristineYa-Ting/net_learning/blob/main/Result_Picture/Whole_Integrate_result2.png)
+  
+</details>
+
+<details> 
+  <summary> Sheet Result :  </summary>
+
+  #### google sheet 1 : ####
+  
+  ![Picture](https://github.com/ChristineYa-Ting/net_learning/blob/main/Result_Picture/whole_integrate_google%20sheet%201.png)
+
+  #### google sheet 2 : ####
+  
+  ![Picture](https://github.com/ChristineYa-Ting/net_learning/blob/main/Result_Picture/whole_integrate_google%20sheet%202.png)
+
+  #### google sheet 3 : ####
+  
+  ![Picture](https://github.com/ChristineYa-Ting/net_learning/blob/main/Result_Picture/whole_integrate_google%20sheet%203.png)
+  
+</details>
