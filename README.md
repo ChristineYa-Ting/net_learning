@@ -88,6 +88,7 @@
 
 
 
+
 **🚩🚩 Whole Integrate 01 🚩🚩**
 --------------------------------------------
 🔗Code : [0429_Whole_Integrate.py](https://github.com/ChristineYa-Ting/net_learning/blob/main/0429_Whole_Integrate.py)
