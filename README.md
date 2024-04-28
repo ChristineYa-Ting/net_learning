@@ -76,11 +76,11 @@
 <details> 
   <summary> Sheet Result :  </summary>
 
-  google sheet 1 :
+  **google sheet 1 : **
   
   ![Picture](https://github.com/ChristineYa-Ting/net_learning/blob/main/Result_Picture/0429_google%20sheet%201.png)
 
-  google sheet 2 :
+  **google sheet 2 : **
   
   ![Picture](https://github.com/ChristineYa-Ting/net_learning/blob/main/Result_Picture/0429_google%20sheet%202.png)
   
